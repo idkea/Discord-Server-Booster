@@ -1,0 +1,13 @@
+base64
+ctypes
+json
+os
+platform
+random
+re
+sqlite3
+subprocess
+uuid
+psutil
+requests
+wmi
